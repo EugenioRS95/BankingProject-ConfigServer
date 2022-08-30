@@ -1,6 +1,6 @@
 server:
-	port: 8041
+ port: 8041
 	
 eureka:
-	instance:
-		hostname: localhost
+ instance:
+  hostname: localhost
