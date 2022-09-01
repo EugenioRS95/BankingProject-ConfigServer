@@ -18,4 +18,4 @@ spring:
         - id: ms-customer
           uri: http://localhost:8020
           predicates:
-            - Path=/personalAccount/**
+            - Path=/personalAccount/**, /bussinessAccount/**
